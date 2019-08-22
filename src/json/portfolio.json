@@ -1,0 +1,49 @@
+[
+        {
+            "id": 1,
+            "name": "Fight Club",
+            "image": "fightclub",
+            "description": "An exciting role player game that is based on the original Final Fantasy theme.",
+            "techUsed":  " Node.js, Express.js, Sequelize, MySQL & Handlebars",
+            "sourceCode": "https://github.com/wsbrasher1/Project2",
+            "link": "https://fight-club-smu.herokuapp.com/"
+        },
+        {
+            "id": 2,
+            "name": "Friend Finder App",
+            "image": "friendfinder",
+            "description": "A Node-based application designed to match user’s by personality survey data.",
+            "techUsed": "Node.js, Express.js, Bootstrap, HTML5, CSS3 & Heroku",
+            "sourceCode": "https://github.com/wsbrasher1/FriendFinder",
+            "link":"https://guarded-earth-51893.herokuapp.com"
+        },
+        {
+            "id": 3,
+            "name": "Trivia Game App",
+            "image": "trivia",
+            "description": "An interactive, timed trivia game with scoreboard feature.",
+            "techUsed": "HTML5, Bootstrap, JavaScript, jQuery & CSS3",
+            "sourceCode": "https://github.com/wsbrasher1/TriviaGame",
+            "link": "https://wsbrasher1.github.io/TriviaGame/"
+        },
+        {
+            "id": 4,
+            "name": "Clicky Game App",
+            "image": "clickyrev",
+            "description": "A simple, music-themed memory game built in React."   ,
+            "techUsed": "React, React-strap, & CSS3",
+            "sourceCode": "https://github.com/wsbrasher1/Clicky-Game-App",
+            "link": "https://quiet-everglades-24675.herokuapp.com/"
+        },
+        {
+            "id": 5,
+            "name": "Giftastic Gif Generator App",
+            "image": "giphybg",
+            "description": "A fun, cartoon-themed application that utilizes the Giphy API to generate animated Gifs on demand."    ,
+            "techUsed": " Giphy API, JavaScript, jQuery, HTML, CSS & Bootstrap",
+            "sourceCode": "https://github.com/wsbrasher1/Giftastic-Project",
+            "link": "https://wsbrasher1.github.io/Giftastic-Project/"
+
+        }
+
+]
